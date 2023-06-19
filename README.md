@@ -1,0 +1,2 @@
+# performance-analysis-and-parallelization-of-cosine-similarity-of-documents-
+Introducing an exciting project on GitHub focused on performance analysis and parallelization of cosine similarity of documents! 📚🔍💻  Our project aims to optimize the calculation of cosine similarity—a fundamental metric for measuring the similarity between documents. By leveraging parallel computing techniques and advanced algorithms.
